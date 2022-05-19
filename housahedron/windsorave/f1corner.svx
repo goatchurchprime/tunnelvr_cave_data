@@ -1,0 +1,7 @@
+*begin windsorave
+
+FR FL  11 90 0
+FR BR  12.27 0 0
+FR FRUP  4 0 90
+
+*end windsorave
