@@ -1,0 +1,158 @@
+
+
+*begin 
+
+*title "Rema Mine, Milos"
+*date 2023
+*team Insts Becka
+
+*entrance 1
+
+; Centreline data
+*data normal from to length bearing gradient ignoreall	
+
+1 2 10 320 -04
+2 3 6.5 330 0
+3 4 26 0 0
+4 5 12 350 0
+5 6 25 020 0
+6 7 20 020 0
+7 8 10 030 0
+8 9 12 090 0
+9 10 8.5 035 0
+10 11 13 025 0
+11 12 28 070 0
+12 13 5 055 0
+13 14 7 280 +36
+14 15 5 230 +16
+15 16 11 240 0
+16 17 10 275 -12
+17 18 2 265 0
+18 19 4.3 330 +09
+19 20 5.5 260 -01
+20 21 8 240 +02
+21 22 9 210 -29
+22 23 9 215 -18
+
+23 8 2.5 170 +10
+19 24 12 348 +30
+24 25 6.5 260 -06
+25 26 10 215 -18
+26 27 13 315 -33
+27 28 5.5 295 -21
+28 29 4.3 005 -20
+29 30 10.4 270 +11
+
+30 31 10 205 +08
+31 32 7 260 -01
+32 33 7.6 305 0
+33 34 9.3 270 -07
+34 35 9.4 240 +12
+35 36 6 310 -15
+36 37 7 335 -12
+37 38 4 005 0
+39 38  9 235 -15  ; back leg
+39 40 10 005 +04
+40 41 7 035 -26
+41 42 4 085 0
+
+40 43 7 295 0
+38 44 4 320 0
+44 45 6.5 030 -08
+44 46 11 280 +10
+46 47 9 220 -03
+
+47 48 7.6 185 +11
+48 49 6.5 100 -11
+49 50 4.7 175 +19
+50 51 21 225 +16
+51 52 18 220 +04
+52 53 17 235 +08
+53 54 23 225 +03
+; 51.5 51.6 8 105 +10 ; leg to dead end between stnd 51 and 52
+
+49 55 6 025 -05
+55 36maybe 8.5 095 -07
+56 57 10 185 -48
+56 58 8 250 0
+56 59 16 345 +07
+59 60 11 230 0
+59 26 11 015 0
+
+;Station Left Right Up Down Description
+*data passage station left right up down ignoreall
+
+1 1 1 1 1 entrance to mine
+2 0 1.5 0.9 0.9 lw, draft in here
+3 0.2 1.3 0.9 0.9 below chute/hopper with rockfall below where Rod originally dug through
+4 0.9 0.4 1.2 0.3 bend
+5 0 1.5 0.7 0.8 iron rails end before stn 6
+6 0.3 0.8 0.7 0.8 walled on both sides
+7 - 1 1.6 0.2 rockfall and passage on l, left = passage
+8 1.2 1.7 0.6 1.3 major jn with ore truck and pit props, surveyed to r
+9 1.2 0.1 0.5 1.3 by stacked rock
+10 1.1 0.2 0.4 1.5 wooden roof starts
+11 0.2 1.2 0.4 1.3 cross supports
+12 1.2 0.2 0.4 1.3 under roof, walled sides
+13 2 3 3 1 cairn, mid chamber
+14 4 5 1.8 0.5 start of upper stope at top of stairs up from lower chamber
+15 6 4.5 2.5 1 mid stope
+16 8 3 9 1 mid stope
+17 10 5 8 1 end of stope, start of tunnel
+18 0 2 0.3 1.4 corner of tunnel
+19 1.5 1 1 1.3 r at walled corner junction, to R goes for over 18m
+20 1.2 0.2 1 1 rising?
+21 2 10 2.5 1.2 jn in loop, rw tunnel
+22 1.5 1 1 0.7 tunnel down to ore truck
+23 1.8 0.1 1 0.4 tunnel before ore truck, other passage we saw on way in
+
+*data passage station left right up down ignoreall
+24 4 10 2.5 1.5 rock top of slope, cutting? on l
+25 4 4 2.5 1.5 mid slope
+26 4 8 3.5 1.5 top slope above previous passage, start of other passage
+27 1.5 0.2 0.5 0.7 rocky slope, drafting in
+28 1 1 0.5 1 rocky slope
+29 1.5 0 1.2 1.5 jn - r goes 10m bending to l then ends, walled
+30 1.2 0.2 1 1.3 walled passage 
+31 0 1 1 1 1.3 walled passage 
+32 0.3 1 0.2 1.7 corner to r
+33 0.7 0.1 0.6 1.5 minor jn
+34 1.2 0.3 1.2 0.7 rw walled passage, draft in, floor gravel throughout 
+35 0.2 2 1 1 lw walled, bends to r with old shoe
+36 1.2 0.6 1.3 0.6 jn, surveyed to r
+37 0 1.3 1.3 0.4 between jns
+38 1.5 1.5 1 0.7 jn with l and r, left tape at corner, we surveyed r
+39 1.2 0.2 0.4 1.3 walled on r side
+40 0.7 1.2 0.3 1.7 lw at walled corner at jn, surveyed to r
+41 1 1 0.3 1.6 walled
+42 1 1 0.5 1 end of passage 
+
+*data passage station left right up down ignoreall
+40 0.7 1.2 0.3 1.7 lw at walled corner at jn, surveyed to r
+43 1 1 0.5 1 dead end
+
+*data passage station left right up down ignoreall
+38 1.5 1.5 1 0.7 jn with l and r, left tape at corner, we surveyed r
+44 1.2 0 1 0.7 jn
+45 0.7 0.8 0.5 1 dead end
+46 1.3 0.3 1.5 1.1 walled passage
+47 1.1 0.3 0.2 1.5 walled passage
+
+48 1.1 0.2 0.3 1.7 rw walled at corner
+49 0.5 1.2 0.7 1.3 jn, left flagging, we surveyed r  draft continues
+50 0.3 1 0.5 1.7 lw, walled, up slope, drafting in
+51 0.3 1.1 0.3 1.6 lw before rockfall
+52 0.2 1.1 0.5 1.7 beyond jn, flagging
+53 0.2 1.2 1 1.7 lw, more shoring
+54 0.7 0.7 0.7 1 dead end
+
+*data passage station left right up down ignoreall
+49 0.5 1.2 0.7 1.3 jn, left flagging, we surveyed r  draft continues
+55 0.2 1.3 0.2 1.5 going l/straight on at jn, walled sides
+56 6 4 1 1.5 not sure about those lruds, top of hopper, 3 way jn whivh is 1.7m wide abd 1.8m high, also says "this is stn 36 hopefully", not sure what that means
+57 1.5 1.5 0.5 1 bottom of hopper, only Chris climbed down - is this directly above stn 7 rockfall?
+58 1.5 1.5 1 1.5 end of stope
+59 2 5 2 1.5 along stope
+60 8 8 2 1.5 back of stope
+
+*end
